@@ -1,2 +1,5 @@
-USE UniversityDB;
+
+
 DROP DATABASE IF EXISTS UniversityDB;
+CREATE DATABASE UniversityDB;
+USE `UniversityDB`;
