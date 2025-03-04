@@ -1,5 +1,5 @@
-DROP DATABASE UniversityDB;
-CREATE DATABASE `UniversityDB`;
+
+CREATE DATABASE IF NOT EXISTS `UniversityDB`;
 -- Step 2: Use the newly created database
 USE `UniversityDB`;
 
